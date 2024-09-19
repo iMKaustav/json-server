@@ -1,4 +1,5 @@
-[
+{
+  "employees": [
     {
       "id": "a95d",
       "name": "Kaustav Das",
@@ -66,4 +67,4 @@
       "avatarUrl": "assets/img/avatar1.png"
     }
   ]
-  
+}
